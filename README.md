@@ -1,1 +1,2 @@
-# ps-04-final
+# Zajęcia 4: Interfejsy
+Kod źródłowy - wersja końcowa
